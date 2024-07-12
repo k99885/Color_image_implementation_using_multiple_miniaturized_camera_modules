@@ -1,6 +1,6 @@
 # 복수의 소형화 카메라 모듈을 이용한 컬러이미지 구현
 
-출원번호:10-2024-0073597
+특허 출원번호:10-2024-0073597
 
 ## Overview
 (Color image implementation using multiple miniaturized camera modules)
